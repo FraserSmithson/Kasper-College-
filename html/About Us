@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kasper college</title>
+</head>
+<body>
+    <header>
+        <div id="logo">
+            <img src="Images/college-logo.png">
+            <div id = "burger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li>About Us</li>
+                <li>Course Information</li>
+                <li>Student Information</li>
+                <li>Business Information</li>
+                <li>Teacher Information</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <img src="Images/Outside_8.jpeg">
+            <h1>About Us</h1>
+            <div class="textBox">
+                <h2>Our mission, vision & core values</h2>
+                <p>Kasper College was established in 1989 to specialize in Computing, Design, and Digital Technologies. Over the past three decades, we have evolved into one of the region's premier technical and creative education hubs. At Kasper College, we are dedicated to providing students with the education, hands-on experience, and industry exposure they need to achieve their career aspirations, equipping them with the knowledge, technical prowess, and creative problem-solving skills required to succeed in a rapidly evolving global market. </p>
+                <p>Our close integration with leading technology firms, software houses, creative agencies, and regional enterprises provides students with direct industry pathways, live commercial briefs, and invaluable placement opportunities. Kasper College gives you the definitive edge when entering the professional world.</p>
+        
+        </section>
+    </main>
+    <footer>
+
+    <footer>
+</body>
+</html>
